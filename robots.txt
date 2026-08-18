@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-exkyfs.ai-photo-stock.com/sitemap.xml
